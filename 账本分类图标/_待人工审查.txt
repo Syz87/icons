@@ -1,0 +1,66 @@
+待人工审查文件清单 (60 个)
+==================================================
+
+以下文件为纯数字/短字母命名，无法通过文件名判断所属分类。
+请逐个打开查看图标内容，确定归属后手动移入对应分类目录。
+
+  - 1.png
+  - 10.png
+  - 12.png
+  - 13.png
+  - 14.png
+  - 16.png
+  - 17.png
+  - 18.png
+  - 2.png
+  - 20.png
+  - 22.png
+  - 23.png
+  - 24.png
+  - 25.png
+  - 26.png
+  - 27.png
+  - 28.png
+  - 29.png
+  - 3.png
+  - 31.png
+  - 32.png
+  - 33.png
+  - 35.png
+  - 4.png
+  - 6.png
+  - 7.png
+  - 711.jpg
+  - 8.png
+  - 9.png
+  - AA_3.png
+  - cc.png
+  - d.png
+  - f.png
+  - fc.png
+  - fv.png
+  - gt.png
+  - hh.png
+  - IE.png
+  - ii.png
+  - j.png
+  - jm.png
+  - k.png
+  - ll.png
+  - lz.png
+  - mm.png
+  - pp.png
+  - ps.png
+  - tm.png
+  - tx.png
+  - uu.png
+  - v.png
+  - wn.png
+  - wy.png
+  - wz.png
+  - y.png
+  - yb.png
+  - yx.png
+  - yy.png
+  - z.png
+  - zz.png
